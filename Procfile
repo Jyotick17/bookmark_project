@@ -1,0 +1,1 @@
+web: gunicorn bookmark_project.wsgi
